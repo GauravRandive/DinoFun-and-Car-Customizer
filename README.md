@@ -2,7 +2,7 @@
 Made using Unity and Vuforia library
 
 ### DinoFun Demo
-An educational augmented reality application that teaches children about their favourite dinosaurs!
+An educational augmented reality application that teaches children about their favourite dinosaurs!(Turn audio on for this video)
 
 > https://user-images.githubusercontent.com/79227663/187523561-0f0a79ea-a070-4084-9095-d7897665ed17.mp4
 
